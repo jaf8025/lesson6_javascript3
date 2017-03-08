@@ -10,11 +10,11 @@ LIS 2360:  Web Application Development
   John McDowell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project consisted of building an application that displays a photo gallery of images and allows the users
+to navigate through the images.
 
 ### View Project:
-  This project consisted of building an application that displays a photo gallery of images and allows the users
-to navigate through the images.
+https://jaf8025.github.io/lesson6_javascript3/index.html
 
 ### Lessons Learned in the Assignment:
 1. How to access elements by id, tag name, class, name or selector
