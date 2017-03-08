@@ -14,7 +14,7 @@ This project consisted of building an application that displays a photo gallery 
 to navigate through the images.
 
 ### View Project:
-https://jaf8025.github.io/lesson6_javascript3/index.html
+https://jaf8025.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. How to access elements by id, tag name, class, name or selector
